@@ -1,3 +1,3 @@
-ls
-uname
-cat /etc/fstab
+ls /root
+uname -a
+cat /etc/fstabgit 
